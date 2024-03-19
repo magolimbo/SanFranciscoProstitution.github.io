@@ -12,7 +12,7 @@ Robert Selna, Chronicle Staff Writer, wrote this in an article from 2009 on [sfg
 >Since even before the Gold Rush, the city has been ambivalent about the sex industry. In 1849, nearly two-thirds of the 300 women in San Francisco were prostitutes, according to some estimates. And although prostitution was illegal in 1911, the city's health board ran a medical clinic for sex workers.
 
 
-![prostitution occurences](/images/prostitution_occurences.png "caption")
+![prostitution occurences](/images/prostitution_occurences.png)
 
 Today, the situation has significantly improved. As evidenced by the histogram, since 2008 the trend has dropped dramatically, reaching **523 cases in 2018**, compared to the **1937 cases in 2003**, that is more than 5 reports per day. This drastic drop is due to changes in the law, in policing strategy, law enforcement’s increased focus on human trafficking and in the way sex work is viewed by the powers that be.
 
