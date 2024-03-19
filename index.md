@@ -35,8 +35,8 @@ It is also important to note that the number of reports classified as prostituti
 | TARAVAL     | 413   |
 | TENDERLOIN  | 1994  |
 
-![prostitution occurences](https://github.com/magolimbo/SanFranciscoProstitution.github.io/blob/master/images/prostitution_hotspot.png)
-![prostitution occurences](https://github.com/magolimbo/SanFranciscoProstitution.github.io/blob/master/images/prostitution_hotspot.png)
+![prostitution hotspot](https://github.com/magolimbo/SanFranciscoProstitution.github.io/blob/master/images/prostitution_hotspot.png)
+![prostitution heightmap](https://github.com/magolimbo/SanFranciscoProstitution.github.io/blob/master/images/prostitution1.png)
 
 [Link to another page](./another-page.html).
 
