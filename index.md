@@ -22,6 +22,8 @@ It is also important to note that the number of reports classified as prostituti
 
 # Mapping Prostitution: Exploring Hotspots in San Francisco
 
+**Table: Incidence of Prostitution by District**
+
 | District    | Value |
 |:-------------|:-------|
 | BAYVIEW     | 136   |
@@ -34,6 +36,9 @@ It is also important to note that the number of reports classified as prostituti
 | SOUTHERN    | 690   |
 | TARAVAL     | 413   |
 | TENDERLOIN  | 1994  |
+
+It's not a surprise that almost all the prostitution incidents have been recorded in the Mission District, that counts 7307 occurences, followed by Northern with 3945.
+The Mission district, and particularly Capp Street, is notoriously famous for its high incidence of prostitution, which has even led authorities to build concrete barriers to reduce the influx of clients from outside. This solution only partially solved the problem, as the sex workers were simply moved a few blocks away.
 
 ![prostitution hotspot](https://github.com/magolimbo/SanFranciscoProstitution.github.io/blob/master/images/prostitution_hotspot.png)
 ![prostitution heightmap](https://github.com/magolimbo/SanFranciscoProstitution.github.io/blob/master/images/prostitution1.png)
