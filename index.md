@@ -8,7 +8,8 @@ For the purpose of the assignment we decided to focus on **prostitution**, to ga
 
 # Across the years: An overview over time
 
-Robert Selna, Chronicle Staff Writer, wrote this in an article from 2009 on [sfgate.com](https://www.sfgate.com/crime/article/S-F-s-ambiguous-attitude-toward-brothels-3255663.php)
+<!-- Robert Selna, Chronicle Staff Writer, wrote this in an article from 2009 on [sfgate.com](https://www.sfgate.com/crime/article/S-F-s-ambiguous-attitude-toward-brothels-3255663.php) -->
+Robert Selna, Chronicle Staff Writer, wrote this in an article from 2009 on sfgate.com
 >Since even before the Gold Rush, the city has been ambivalent about the sex industry. In 1849, nearly two-thirds of the 300 women in San Francisco were prostitutes, according to some estimates. And although prostitution was illegal in 1911, the city's health board ran a medical clinic for sex workers.
 
 
@@ -16,7 +17,8 @@ Robert Selna, Chronicle Staff Writer, wrote this in an article from 2009 on [sfg
 
 Today, the situation has significantly improved. As evidenced by the histogram, since 2008 the trend has dropped dramatically, reaching **523 cases in 2018**, compared to the **1937 cases in 2003**, that is more than 5 reports per day. This drastic drop is due to changes in the law, in policing strategy, law enforcement’s increased focus on human trafficking and in the way sex work is viewed by the powers that be.
 
-What stands out is the temporary decrease in occurrences between 2004 and 2006, possibly linked to the major operation in 2005 involving 400 federal and state law enforcement officials who **dismantled 50 brothels** and other businesses in San Francisco and the Bay Area involved in the **trafficking of South Korean women forced into prostitution** (read the article from the New York Times [here](https://www.nytimes.com/2005/07/02/us/agents-said-to-dismantle-a-korean-sex-ring.html)).
+What stands out is the temporary decrease in occurrences between 2004 and 2006, possibly linked to the major operation in 2005 involving 400 federal and state law enforcement officials who **dismantled 50 brothels** and other businesses in San Francisco and the Bay Area involved in the **trafficking of South Korean women forced into prostitution** 
+<!-- (read the article from the New York Times [here](https://www.nytimes.com/2005/07/02/us/agents-said-to-dismantle-a-korean-sex-ring.html)). -->
 
 It is also important to note that the number of reports classified as prostitution in this dataset likely includes cases of **loitering**, considered a crime by the California Penal Code until 2023 if associated with the intent to commit prostitution. Therefore, the number of actual prostitution cases is likely lower than what appears.
 
