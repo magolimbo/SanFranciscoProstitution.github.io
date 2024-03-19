@@ -36,6 +36,7 @@ It is also important to note that the number of reports classified as prostituti
 | TENDERLOIN  | 1994  |
 
 ![prostitution occurences](https://github.com/magolimbo/SanFranciscoProstitution.github.io/blob/master/images/prostitution_hotspot.png)
+![prostitution occurences](https://github.com/magolimbo/SanFranciscoProstitution.github.io/blob/master/images/prostitution_hotspot.png)
 
 [Link to another page](./another-page.html).
 
