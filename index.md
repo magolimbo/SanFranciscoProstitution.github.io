@@ -2,11 +2,40 @@
 layout: default
 ---
 
-The [San Francisco Crime dataset](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry/about_data) is a free dataset that provides valuable information about over 2 million crimes in San Francisco **from 2003 to 2018**. Each entry in the dataset is a crime recorded by the police, indicating the category, time, and location of the crime, as well as other useful information.
+The [San Francisco Crime dataset](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry/about_data) is a free dataset that provides valuable information about over 2 million crimes in San Francisco **from 2003 to May 2018**. Each entry in the dataset is a crime recorded by the police, indicating the category, time, and location of the crime, as well as other useful information.
 
-For the purpose of the assignment we decided to focus on **prostitution**, to gain insights about its evolution over time and its distribution over San Francisco.
+For the purpose of the assignment we decided to focus on **prostitution**, to gain insights about its evolution over time and its distribution over San Francisco. From the dataset, **16.501 cases** have been recorded under the category of prostitution over the course of 15 years.
+
+# Across the years: An overview over time
+
+Robert Selna, Chronicle Staff Writer, wrote this in an article from 2009 on [sfgate.com](https://www.sfgate.com/crime/article/S-F-s-ambiguous-attitude-toward-brothels-3255663.php)
+>Since even before the Gold Rush, the city has been ambivalent about the sex industry. In 1849, nearly two-thirds of the 300 women in San Francisco were prostitutes, according to some estimates. And although prostitution was illegal in 1911, the city's health board ran a medical clinic for sex workers.
 
 
+![prostitution occurences](/images/prostitution_occurences.png "caption")
+
+Today, the situation has significantly improved. As evidenced by the histogram, since 2008 the trend has dropped dramatically, reaching **523 cases in 2018**, compared to the **1937 cases in 2003**, that is more than 5 reports per day. This drastic drop is due to changes in the law, in policing strategy, law enforcement’s increased focus on human trafficking and in the way sex work is viewed by the powers that be.
+
+What stands out is the temporary decrease in occurrences between 2004 and 2006, possibly linked to the major operation in 2005 involving 400 federal and state law enforcement officials who **dismantled 50 brothels** and other businesses in San Francisco and the Bay Area involved in the **trafficking of South Korean women forced into prostitution** (read the article from the New York Times [here](https://www.nytimes.com/2005/07/02/us/agents-said-to-dismantle-a-korean-sex-ring.html)).
+
+It is also important to note that the number of reports classified as prostitution in this dataset likely includes cases of **loitering**, considered a crime by the California Penal Code until 2023 if associated with the intent to commit prostitution. Therefore, the number of actual prostitution cases is likely lower than what appears.
+
+# Mapping Prostitution: Exploring Hotspots in San Francisco
+
+| District    | Value |
+|:-------------|:-------|
+| BAYVIEW     | 136   |
+| CENTRAL     | 1854  |
+| INGLESIDE   | 80    |
+| **MISSION**     | **7307**  |
+| NORTHERN    | 3945  |
+| PARK        | 18    |
+| RICHMOND    | 64    |
+| SOUTHERN    | 690   |
+| TARAVAL     | 413   |
+| TENDERLOIN  | 1994  |
+
+![prostitution occurences](/images/prostitution_hotspot.png)
 
 [Link to another page](./another-page.html).
 
@@ -55,12 +84,8 @@ end
 
 ###### Header 6
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+
+
 
 ### There's a horizontal rule below this.
 
