@@ -26,54 +26,18 @@ It is also important to note that the number of reports classified as prostituti
 
 **Table: Incidence of Prostitution by District**
 
-<div style="display: flex; justify-content: center;">
-  <table>
-    <tr>
-      <th>District</th>
-      <th>Value</th>
-    </tr>
-    <tr>
-      <td>BAYVIEW</td>
-      <td>136</td>
-    </tr>
-    <tr>
-      <td>CENTRAL</td>
-      <td>1854</td>
-    </tr>
-    <tr>
-      <td>INGLESIDE</td>
-      <td>80</td>
-    </tr>
-    <tr>
-      <td><strong>MISSION</strong></td>
-      <td><strong>7307</strong></td>
-    </tr>
-    <tr>
-      <td>NORTHERN</td>
-      <td>3945</td>
-    </tr>
-    <tr>
-      <td>PARK</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <td>RICHMOND</td>
-      <td>64</td>
-    </tr>
-    <tr>
-      <td>SOUTHERN</td>
-      <td>690</td>
-    </tr>
-    <tr>
-      <td>TARAVAL</td>
-      <td>413</td>
-    </tr>
-    <tr>
-      <td>TENDERLOIN</td>
-      <td>1994</td>
-    </tr>
-  </table>
-</div>
+| District    | Value |
+|:-------------|:-------|
+| BAYVIEW     | 136   |
+| CENTRAL     | 1854  |
+| INGLESIDE   | 80    |
+| **MISSION**     | **7307**  |
+| NORTHERN    | 3945  |
+| PARK        | 18    |
+| RICHMOND    | 64    |
+| SOUTHERN    | 690   |
+| TARAVAL     | 413   |
+| TENDERLOIN  | 1994  |
 
 It's not a surprise that almost all the prostitution incidents have been recorded in the **Mission District**, that counts **7307 occurences**, followed by Northern with 3945.
 The Mission district (see map below), and particularly **Capp Street**, is notoriously famous for its high incidence of prostitution, which has even led authorities to build concrete barriers to reduce the influx of clients from outside. The barricades have significantly improved the safety of Capp. St. over the past months bringing peace and quiet. A solution that neighbors in the area deem necessary for the neighborhood's sanity and safety.
@@ -101,9 +65,6 @@ This clearly suggests that the underlying issue is not preventing clients from r
 
 
 
-
-# Mapping Prostitution: Prositution across the years in San Fracisco city
-
 <div style="display: flex; justify-content: center;">
   <embed 
        type="text/html" 
@@ -112,8 +73,6 @@ This clearly suggests that the underlying issue is not preventing clients from r
        height="600"
        />
 </div>
-
-
 
 
 
