@@ -51,8 +51,7 @@ This clearly suggests that the underlying issue is not preventing clients from r
        src="prostitution_map.html"
        width="1100"
        height="600"
-       >
-</embed>
+       />
 
 
 
