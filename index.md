@@ -102,7 +102,7 @@ This clearly suggests that the underlying issue is not preventing clients from r
 
 
 
-# Mapping Prostitution: Prositution during the years
+# Mapping Prostitution: Prositution across the years in San Fracisco city
 
 <div style="display: flex; justify-content: center;">
   <embed 
