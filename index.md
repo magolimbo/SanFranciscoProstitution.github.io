@@ -46,35 +46,33 @@ However this solution only partially solved the problem, as the sex workers were
 This clearly suggests that the underlying issue is not preventing clients from reaching sex workers, but rather increasing efforts to dismantle the criminal organizations that control hundreds of women, or even legalizing and regulating prostitution to remove these human lives from the streets.
 
 
-<embed 
+<div style="display: flex; justify-content: center;">
+  <embed 
        type="text/html" 
        src="prostitution_map.html"
        width="1100"
        height="600"
        />
+</div>
 
 
 
 
-![prostitution heightmap](images/prostitution11.png)
-
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<div style="display: flex; justify-content: center;">
+  <img src="images/prostitution11.png" alt="prostitution heightmap">
+</div>
 
 
 
 
-
-<embed 
+<div style="display: flex; justify-content: center;">
+  <embed 
        type="text/html" 
        src="prostitution_crimes_plot.html"
        width="1100"
        height="600"
        />
+</div>
 
 
 
