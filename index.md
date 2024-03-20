@@ -71,7 +71,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 <embed 
        type="text/html" 
-       src="prostitution_map.html"
+       src="prostitution_crimes_plot.html"
        width="1100"
        height="600"
        />
