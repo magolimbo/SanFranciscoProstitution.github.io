@@ -45,10 +45,18 @@ However this solution only partially solved the problem, as the sex workers were
 
 This clearly suggests that the underlying issue is not preventing clients from reaching sex workers, but rather increasing efforts to dismantle the criminal organizations that control hundreds of women, or even legalizing and regulating prostitution to remove these human lives from the streets.
 
-![prostitution hotspot](images/prostitution_hotspot1.png)
-*heat map of prostitution reports in San Francisco*
 
-The map plot above obtained from the dataset confirms in a visual way what has been said. 
+<embed 
+       type="text/html" 
+       src="prostitution_map.html"
+       width="1100"
+       height="600"
+       >
+</embed>
+
+
+
+
 ![prostitution heightmap](images/prostitution11.png)
 
 
@@ -57,6 +65,44 @@ The map plot above obtained from the dataset confirms in a visual way what has b
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Header 1
 
