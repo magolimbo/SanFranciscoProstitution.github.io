@@ -59,6 +59,7 @@ This clearly suggests that the underlying issue is not preventing clients from r
 ![prostitution heightmap](images/prostitution11.png)
 
 
+# Mapping Prostitution: Prostitution throught the years in San Francisco city
 
 As seen in this interactive Bokeh plot, the number of crimes related to prostitution has significantly decreased over the years. It is interesting to note that in 2009, the Mission district experienced the highest peak of activity; however, in 2015, the lowest number of prostitution crimes was recorded. This may imply that, as previously mentioned, various policies against brothels, etc., have had an effect over the years, as the decrease has been progressive for all districts, especially those with high criminal activity. It is important to highlight that districts like Richmond and Bayview have consistently had a very low number of incidents.
 
