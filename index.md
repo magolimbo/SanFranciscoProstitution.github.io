@@ -42,7 +42,18 @@ It is also important to note that the number of reports classified as prostituti
 It's not a surprise that almost all the prostitution incidents have been recorded in the Mission District, that counts 7307 occurences, followed by Northern with 3945.
 The Mission district, and particularly Capp Street, is notoriously famous for its high incidence of prostitution, which has even led authorities to build concrete barriers to reduce the influx of clients from outside. This solution only partially solved the problem, as the sex workers were simply moved a few blocks away.
 
-![prostitution hotspot](images/prostitution_hotspot1.png)
+
+<embed 
+       type="text/html" 
+       src="SanFranciscoProstitution.github.io\prostitution_map.html"
+       width="1100"
+       height="600"
+       >
+</embed>
+
+
+
+
 ![prostitution heightmap](images/prostitution11.png)
 
 [Link to another page](./another-page.html).
@@ -50,6 +61,44 @@ The Mission district, and particularly Capp Street, is notoriously famous for it
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Header 1
 
