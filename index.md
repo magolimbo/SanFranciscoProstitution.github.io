@@ -65,14 +65,12 @@ This clearly suggests that the underlying issue is not preventing clients from r
 
 
 
-<div style="display: flex; justify-content: center;">
-  <embed 
+<embed 
        type="text/html" 
        src="prostitution_crimes_plot.html"
        width="1100"
        height="600"
        />
-</div>
 
 
 
