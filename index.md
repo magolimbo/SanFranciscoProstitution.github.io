@@ -15,7 +15,7 @@ Robert Selna, Chronicle Staff Writer, wrote this in an article from 2009 on sfga
 
 ![prostitution occurences](images/prostitution_occurences1.png)
 
-Today, the situation has significantly improved. As evidenced by the histogram, since 2008 the trend has dropped dramatically, reaching **523 cases in 2018**, compared to the **1937 cases in 2003**, that is more than 5 reports per day. This drastic drop is due to changes in the law, in policing strategy, law enforcement’s increased focus on human trafficking and in the way sex work is viewed by the powers that be.
+Today, the situation has significantly improved. As evidenced by the histogram, since 2008 the trend has dropped dramatically, reaching **523 cases in 2017**, compared to the **1937 cases in 2003**, that is more than 5 reports per day. This drastic drop is due to changes in the law, in policing strategy, law enforcement’s increased focus on human trafficking and in the way sex work is viewed by the powers that be.
 
 What stands out is the temporary decrease in occurrences between 2004 and 2006, possibly linked to the major operation in 2005 involving 400 federal and state law enforcement officials who **dismantled 50 brothels** and other businesses in San Francisco and the Bay Area involved in the **trafficking of South Korean women forced into prostitution** 
 <!-- (read the article from the New York Times [here](https://www.nytimes.com/2005/07/02/us/agents-said-to-dismantle-a-korean-sex-ring.html)). -->
@@ -39,11 +39,18 @@ It is also important to note that the number of reports classified as prostituti
 | TARAVAL     | 413   |
 | TENDERLOIN  | 1994  |
 
-It's not a surprise that almost all the prostitution incidents have been recorded in the Mission District, that counts 7307 occurences, followed by Northern with 3945.
-The Mission district, and particularly Capp Street, is notoriously famous for its high incidence of prostitution, which has even led authorities to build concrete barriers to reduce the influx of clients from outside. This solution only partially solved the problem, as the sex workers were simply moved a few blocks away.
+It's not a surprise that almost all the prostitution incidents have been recorded in the **Mission District**, that counts **7307 occurences**, followed by Northern with 3945.
+The Mission district (see map below), and particularly **Capp Street**, is notoriously famous for its high incidence of prostitution, which has even led authorities to build concrete barriers to reduce the influx of clients from outside. The barricades have significantly improved the safety of Capp. St. over the past months bringing peace and quiet. A solution that neighbors in the area deem necessary for the neighborhood's sanity and safety.
+However this solution only partially solved the problem, as the sex workers were simply moved a few blocks away.
+
+This clearly suggests that the underlying issue is not preventing clients from reaching sex workers, but rather increasing efforts to dismantle the criminal organizations that control hundreds of women, or even legalizing and regulating prostitution to remove these human lives from the streets.
 
 ![prostitution hotspot](images/prostitution_hotspot1.png)
+*heat map of prostitution reports in San Francisco*
+
+The map plot above obtained from the dataset confirms in a visual way what has been said. 
 ![prostitution heightmap](images/prostitution11.png)
+
 
 [Link to another page](./another-page.html).
 
