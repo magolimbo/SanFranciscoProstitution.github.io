@@ -48,11 +48,26 @@ The Mission district, and particularly Capp Street, is notoriously famous for it
        src="SanFranciscoProstitution.github.io\prostitution_map.html"
        width="1100"
        height="600"
-       >
-</embed>
+       />
 
 
 
+
+# Mapping Prostitution: An interactive visualisation over time
+
+As seen in this interactive Bokeh plot, the number of crimes related to prostitution has significantly decreased over the years. It is interesting to note that in 2009, the Mission district experienced the highest peak of activity, while all the other districts recorded a significant decline, especially in the northern district. From the plot, it seems that all the criminal activity of that year concentrated in the Mission district. However, in 2015, the lowest number of prostitution crimes was recorded and the Southern district took the lead as the district with the highest prostitution activity. This may imply that, as previously mentioned, various policies against brothels, etc., have had an effect over the years, as the decrease has been progressive for all districts, especially those with high criminal activity. It is important to highlight that districts like Richmond and Bayview have consistently had a very low number of incidents.
+
+This downward trend suggests a positive impact of enforcement measures and possibly social interventions aimed at addressing the underlying issues contributing to prostitution-related crimes. Additionally, it could indicate changes in societal attitudes or economic factors influencing the demand for such activities. The data underscores the importance of ongoing efforts to combat human trafficking and exploitation associated with the sex trade.
+
+<embed 
+       type="text/html" 
+       src="prostitution_crimes_plot.html"
+       width="1100"
+       height="600"
+       /><br>
+
+
+<br>An alternative and really interesting visualization of prostitution activity in San Francisco in 2009 is the render below by [Dough McCune](https://dougmccune.com/blog/tag/datasf/), where criminal activity is mapped as elevation relative to sea level. As already confirmed by the previous interactive graph, the Mission district clearly outperforms all others by a significant margin.<br>
 
 ![prostitution heightmap](images/prostitution11.png)
 
