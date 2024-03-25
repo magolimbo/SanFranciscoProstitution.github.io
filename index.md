@@ -17,7 +17,7 @@ Robert Selna, Chronicle Staff Writer, wrote this in an article from 2009 on [sfg
 
 Today, the situation has significantly improved. As evidenced by the histogram, since 2008 the trend has dropped dramatically, reaching **523 cases in 2017**, compared to the **1937 cases in 2003**, that is more than 5 reports per day. This drastic drop is due to changes in the law, in policing strategy, law enforcement’s increased focus on human trafficking and in the way sex work is viewed by the powers that be.
 
-What stands out is the temporary decrease in occurrences between 2004 and 2006, possibly linked to the major operation in 2005 involving 400 federal and state law enforcement officials who **dismantled 50 brothels** and other businesses in San Francisco and the Bay Area involved in the **trafficking of South Korean women forced into prostitution** 
+What stands out is the temporary decrease in occurrences between 2004 and 2006, possibly linked to the major operation in 2005 involving 400 federal and state law enforcement officials who **dismantled 50 brothels** and other businesses in San Francisco and the Bay Area involved in the **trafficking of South Korean women forced into prostitution.** 
 <!-- (read the article from the New York Times [here](https://www.nytimes.com/2005/07/02/us/agents-said-to-dismantle-a-korean-sex-ring.html)). -->
 
 It is also important to note that the number of reports classified as prostitution in this dataset likely includes cases of **loitering**, considered a crime by the California Penal Code until 2023 if associated with the intent to commit prostitution. Therefore, the number of actual prostitution cases is likely lower than what appears.
@@ -56,14 +56,15 @@ This clearly suggests that the underlying issue is not preventing clients from r
 
 
 
-![prostitution heightmap](images/prostitution11.png)
+# Mapping Prostitution: An interactive visualisation over time
 
-
-# Mapping Prostitution: Prostitution throught the years in San Francisco city
-
-As seen in this interactive Bokeh plot, the number of crimes related to prostitution has significantly decreased over the years. It is interesting to note that in 2009, the Mission district experienced the highest peak of activity; however, in 2015, the lowest number of prostitution crimes was recorded. This may imply that, as previously mentioned, various policies against brothels, etc., have had an effect over the years, as the decrease has been progressive for all districts, especially those with high criminal activity. It is important to highlight that districts like Richmond and Bayview have consistently had a very low number of incidents.
+As seen in this interactive Bokeh plot, the number of crimes related to prostitution has significantly decreased over the years. It is interesting to note that in 2009, the Mission district experienced the highest peak of activity, while all the other districts recorded a significant decline, especially in the northern district. From the plot, it seems that all the criminal activity of that year concentrated in the Mission district. However, in 2015, the lowest number of prostitution crimes was recorded and the Southern district took the lead as the district with the highest prostitution activity. This may imply that, as previously mentioned, various policies against brothels, etc., have had an effect over the years, as the decrease has been progressive for all districts, especially those with high criminal activity. It is important to highlight that districts like Richmond and Bayview have consistently had a very low number of incidents.
 
 This downward trend suggests a positive impact of enforcement measures and possibly social interventions aimed at addressing the underlying issues contributing to prostitution-related crimes. Additionally, it could indicate changes in societal attitudes or economic factors influencing the demand for such activities. The data underscores the importance of ongoing efforts to combat human trafficking and exploitation associated with the sex trade.
+
+An alternative and really interesting visualization of prostitution activity in San Francisco in 2009 is the render below by [Dough McCune](https://dougmccune.com/blog/tag/datasf/), where criminal activity is mapped as elevation relative to sea level. As already confirmed by the previous interactive graph, the Mission district clearly outperforms all others by a significant margin.
+
+![prostitution heightmap](images/prostitution11.png)
 
 
 <embed 
@@ -73,7 +74,7 @@ This downward trend suggests a positive impact of enforcement measures and possi
        height="600"
        />
 
-Furthermore, examining the fluctuations in crime rates across different districts can provide valuable insights into the effectiveness of localized interventions and enforcement strategies. By analyzing these trends, policymakers and law enforcement agencies can better target resources and tailor interventions to address specific challenges faced by each community.
+Examining the fluctuations in crime rates across different districts can provide valuable insights into the effectiveness of localized interventions and enforcement strategies. By analyzing these trends, policymakers and law enforcement agencies can better target resources and tailor interventions to address specific challenges faced by each community.
 
 In conclusion, while there has been a notable reduction in prostitution-related crimes over the years, continued vigilance and targeted interventions are necessary to sustain this positive trend and address any remaining issues effectively. Collaboration between law enforcement, social services, and community stakeholders remains crucial in tackling the complex issues surrounding prostitution and ensuring the safety and well-being of vulnerable populations.
 
