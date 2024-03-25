@@ -62,17 +62,18 @@ As seen in this interactive Bokeh plot, the number of crimes related to prostitu
 
 This downward trend suggests a positive impact of enforcement measures and possibly social interventions aimed at addressing the underlying issues contributing to prostitution-related crimes. Additionally, it could indicate changes in societal attitudes or economic factors influencing the demand for such activities. The data underscores the importance of ongoing efforts to combat human trafficking and exploitation associated with the sex trade.
 
-An alternative and really interesting visualization of prostitution activity in San Francisco in 2009 is the render below by [Dough McCune](https://dougmccune.com/blog/tag/datasf/), where criminal activity is mapped as elevation relative to sea level. As already confirmed by the previous interactive graph, the Mission district clearly outperforms all others by a significant margin.
-
-![prostitution heightmap](images/prostitution11.png)
-
-
 <embed 
        type="text/html" 
        src="prostitution_crimes_plot.html"
        width="1100"
        height="600"
        />
+
+
+An alternative and really interesting visualization of prostitution activity in San Francisco in 2009 is the render below by [Dough McCune](https://dougmccune.com/blog/tag/datasf/), where criminal activity is mapped as elevation relative to sea level. As already confirmed by the previous interactive graph, the Mission district clearly outperforms all others by a significant margin.
+
+![prostitution heightmap](images/prostitution11.png)
+
 
 Examining the fluctuations in crime rates across different districts can provide valuable insights into the effectiveness of localized interventions and enforcement strategies. By analyzing these trends, policymakers and law enforcement agencies can better target resources and tailor interventions to address specific challenges faced by each community.
 
