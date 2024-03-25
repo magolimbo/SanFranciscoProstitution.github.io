@@ -70,7 +70,6 @@ This downward trend suggests a positive impact of enforcement measures and possi
        width="1100"
        height="600"
        />
-
 An alternative and really interesting visualization of prostitution activity in San Francisco in 2009 is the render below by [Dough McCune](https://dougmccune.com/blog/tag/datasf/), where criminal activity is mapped as elevation relative to sea level. As already confirmed by the previous interactive graph, the Mission district clearly outperforms all others by a significant margin.
 
 ![prostitution heightmap](images/prostitution11.png)
