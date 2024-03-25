@@ -52,7 +52,6 @@ The Mission district, and particularly Capp Street, is notoriously famous for it
 
 
 
-
 # Mapping Prostitution: An interactive visualisation over time
 
 As seen in this interactive Bokeh plot, the number of crimes related to prostitution has significantly decreased over the years. It is interesting to note that in 2009, the Mission district experienced the highest peak of activity, while all the other districts recorded a significant decline, especially in the northern district. From the plot, it seems that all the criminal activity of that year concentrated in the Mission district. However, in 2015, the lowest number of prostitution crimes was recorded and the Southern district took the lead as the district with the highest prostitution activity. This may imply that, as previously mentioned, various policies against brothels, etc., have had an effect over the years, as the decrease has been progressive for all districts, especially those with high criminal activity. It is important to highlight that districts like Richmond and Bayview have consistently had a very low number of incidents.
