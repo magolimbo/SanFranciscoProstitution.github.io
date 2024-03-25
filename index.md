@@ -45,7 +45,7 @@ The Mission district, and particularly Capp Street, is notoriously famous for it
 
 <embed 
        type="text/html" 
-       src="SanFranciscoProstitution.github.io\prostitution_map.html"
+       src="/prostitution_map.html"
        width="1100"
        height="600"
        />
