@@ -25,6 +25,8 @@ It is also important to note that the number of reports classified as prostituti
 
 # Mapping Prostitution: Exploring Hotspots in San Francisco
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MN5LP87vdlo?si=f9lcoIo93kVfC_Ie&amp;start=373" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"> </iframe>
+
 **Table: Incidence of Prostitution by District**
 
 | District    | Value |
