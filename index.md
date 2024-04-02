@@ -89,8 +89,8 @@ From its historical prevalence dating back to the Gold Rush era to present-day e
 
 |          | Section 1 | Section 2 | Section 3 |
 |----------|-----------|-----------|-----------|
-| Gabriele |    60%    |    60%    |    40%    |
-| Fernando |    40%    |    40%    |    60%    |
+| Gabriele Turetta|    60%    |    60%    |    40%    |
+| Fernando Marina Urriola |    40%    |    40%    |    60%    |
 
 
 # References
