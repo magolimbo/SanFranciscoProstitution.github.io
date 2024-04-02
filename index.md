@@ -25,6 +25,12 @@ It is also important to note that the number of reports classified as prostituti
 
 # Mapping Prostitution: Exploring Hotspots in San Francisco
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MN5LP87vdlo?si=f9lcoIo93kVfC_Ie&amp;start=373" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"> </iframe>
+_A drive along Capp Street, a hotspot of prostitution in San Francisco_
+<br>
+<br>
+<br>
+
 **Table: Incidence of Prostitution by District**
 
 | District    | Value |
@@ -70,17 +76,14 @@ This downward trend suggests a positive impact of enforcement measures and possi
        width="1100"
        height="600"
        />
-
 An alternative and really interesting visualization of prostitution activity in San Francisco in 2009 is the render below by [Dough McCune](https://dougmccune.com/blog/tag/datasf/), where criminal activity is mapped as elevation relative to sea level. As already confirmed by the previous interactive graph, the Mission district clearly outperforms all others by a significant margin.
 
 ![prostitution heightmap](images/prostitution11.png)
 
 
 
-Examining the fluctuations in crime rates across different districts can provide valuable insights into the effectiveness of localized interventions and enforcement strategies. By analyzing these trends, policymakers and law enforcement agencies can better target resources and tailor interventions to address specific challenges faced by each community.
-
-In conclusion, while there has been a notable reduction in prostitution-related crimes over the years, continued vigilance and targeted interventions are necessary to sustain this positive trend and address any remaining issues effectively. Collaboration between law enforcement, social services, and community stakeholders remains crucial in tackling the complex issues surrounding prostitution and ensuring the safety and well-being of vulnerable populations..
-
+This brief analysis of the San Francisco Crime dataset with the focus on prostitution has provided us with valuable insights into the evolution and distribution of this issue over the years, and it has also allowed us to confirm the statistics reported by journalistic outlets and other external sources. 
+From its historical prevalence dating back to the Gold Rush era to present-day enforcement and societal changes, the dataset reflects a significant decline in reported cases, indicating positive impacts of law enforcement strategies, policy changes, and social interventions. However, concentrated hotspots, such as the Mission District, highlight persistent challenges and the need for comprehensive approaches addressing the underlying factors driving prostitution and related crimes. Whether through legal reforms, targeted enforcement against criminal organizations, or support for vulnerable populations, continued efforts are essential to combat human trafficking, exploitation, and improve community safety and well-being in San Francisco.
 
 # Contributions
 |          | Section 1 | Section 2 | Section 3 |
