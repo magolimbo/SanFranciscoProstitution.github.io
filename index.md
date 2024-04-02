@@ -86,7 +86,9 @@ This brief analysis of the San Francisco Crime dataset with the focus on prostit
 From its historical prevalence dating back to the Gold Rush era to present-day enforcement and societal changes, the dataset reflects a significant decline in reported cases, indicating positive impacts of law enforcement strategies, policy changes, and social interventions. However, concentrated hotspots, such as the Mission District, highlight persistent challenges and the need for comprehensive approaches addressing the underlying factors driving prostitution and related crimes. Whether through legal reforms, targeted enforcement against criminal organizations, or support for vulnerable populations, continued efforts are essential to combat human trafficking, exploitation, and improve community safety and well-being in San Francisco.
 
 # Contributions
+
 |          | Section 1 | Section 2 | Section 3 |
-|----------|------------|------------|------------|
-| Gabriele |       60%     |    60%        |     40       |
-| Fernando |       40%     |       40%     |       60%     |
+|----------|-----------|-----------|-----------|
+| Gabriele |    60%    |    60%    |    40%    |
+| Fernando |    40%    |    40%    |    60%    |
+
