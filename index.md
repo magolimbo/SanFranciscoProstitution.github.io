@@ -92,3 +92,14 @@ From its historical prevalence dating back to the Gold Rush era to present-day e
 | Gabriele |    60%    |    60%    |    40%    |
 | Fernando |    40%    |    40%    |    60%    |
 
+
+# References
+
+1. OpenData, City and County of San Francisco. [Police Department Incident Reports (Historical 2003)](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry/about_data), 2024.
+   
+2. Senna, Robert. [S.F.'s ambiguous attitude toward brothels](https://www.sfgate.com/crime/article/S-F-s-ambiguous-attitude-toward-brothels-3255663.php), 2009
+   
+3. Street Clipz. [Video: Street Clipz](https://youtu.be/MN5LP87vdlo), 2023
+
+4. McCune, Doug. [Blog posts tagged datasf](https://dougmccune.com/blog/tag/datasf/), 2011
+
